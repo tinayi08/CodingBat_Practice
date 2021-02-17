@@ -25,9 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d812e741-0e74-42dd-b3fe-184b53083cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/front22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/or35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/startHi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup1/delDel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup1/hasTeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup1/in1020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup1/loneTeen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +55,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.startHi">
+  <component name="RunManager" selected="Application.delDel">
     <configuration name="backAround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Warmup1.backAround" />
+      <module name="CodingBatPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Warmup1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="delDel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warmup1.delDel" />
       <module name="CodingBatPractice" />
       <extension name="coverage">
         <pattern>
@@ -94,13 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="frontBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="frontBack" />
-      <module name="CodingBatPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="startHi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Warmup1.startHi" />
       <module name="CodingBatPractice" />
@@ -116,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.delDel" />
         <item itemvalue="Application.startHi" />
         <item itemvalue="Application.front22" />
         <item itemvalue="Application.backAround" />
         <item itemvalue="Application.front3" />
-        <item itemvalue="Application.frontBack" />
       </list>
     </recent_temporary>
   </component>
@@ -148,54 +155,54 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1384" height="256" key="GridCell.Tab.0.bottom" timestamp="1613448210803">
-      <screen x="-295" y="-1057" width="1920" height="970" />
+    <state width="1384" height="256" key="GridCell.Tab.0.bottom" timestamp="1613535845225">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1384" height="256" key="GridCell.Tab.0.bottom/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613342207744" />
+    <state width="1384" height="256" key="GridCell.Tab.0.bottom/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613535845225" />
     <state width="1384" height="243" key="GridCell.Tab.0.bottom/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913379" />
-    <state width="1384" height="256" key="GridCell.Tab.0.bottom/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613448210803" />
-    <state width="1384" height="256" key="GridCell.Tab.0.center" timestamp="1613448210802">
-      <screen x="-295" y="-1057" width="1920" height="970" />
+    <state width="1384" height="312" key="GridCell.Tab.0.bottom/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613456740485" />
+    <state width="1384" height="256" key="GridCell.Tab.0.center" timestamp="1613535845222">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1384" height="256" key="GridCell.Tab.0.center/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613342207743" />
+    <state width="1384" height="256" key="GridCell.Tab.0.center/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613535845222" />
     <state width="1384" height="243" key="GridCell.Tab.0.center/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913378" />
-    <state width="1384" height="256" key="GridCell.Tab.0.center/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613448210802" />
-    <state width="1384" height="256" key="GridCell.Tab.0.left" timestamp="1613448210802">
-      <screen x="-295" y="-1057" width="1920" height="970" />
+    <state width="1384" height="312" key="GridCell.Tab.0.center/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613456740484" />
+    <state width="1384" height="256" key="GridCell.Tab.0.left" timestamp="1613535845221">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1384" height="256" key="GridCell.Tab.0.left/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613342207742" />
+    <state width="1384" height="256" key="GridCell.Tab.0.left/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613535845221" />
     <state width="1384" height="243" key="GridCell.Tab.0.left/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913377" />
-    <state width="1384" height="256" key="GridCell.Tab.0.left/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613448210802" />
-    <state width="1384" height="256" key="GridCell.Tab.0.right" timestamp="1613448210802">
-      <screen x="-295" y="-1057" width="1920" height="970" />
+    <state width="1384" height="312" key="GridCell.Tab.0.left/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613456740483" />
+    <state width="1384" height="256" key="GridCell.Tab.0.right" timestamp="1613535845224">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1384" height="256" key="GridCell.Tab.0.right/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613342207744" />
+    <state width="1384" height="256" key="GridCell.Tab.0.right/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613535845224" />
     <state width="1384" height="243" key="GridCell.Tab.0.right/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913378" />
-    <state width="1384" height="256" key="GridCell.Tab.0.right/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613448210802" />
-    <state width="1384" height="312" key="GridCell.Tab.1.bottom" timestamp="1613447598309">
+    <state width="1384" height="312" key="GridCell.Tab.0.right/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613456740484" />
+    <state width="1384" height="312" key="GridCell.Tab.1.bottom" timestamp="1613456740486">
       <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
-    <state width="1384" height="312" key="GridCell.Tab.1.bottom/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613447598309" />
-    <state width="1384" height="312" key="GridCell.Tab.1.center" timestamp="1613447598308">
+    <state width="1384" height="312" key="GridCell.Tab.1.bottom/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613456740486" />
+    <state width="1384" height="312" key="GridCell.Tab.1.center" timestamp="1613456740485">
       <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
-    <state width="1384" height="312" key="GridCell.Tab.1.center/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613447598308" />
-    <state width="1384" height="312" key="GridCell.Tab.1.left" timestamp="1613447598308">
+    <state width="1384" height="312" key="GridCell.Tab.1.center/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613456740485" />
+    <state width="1384" height="312" key="GridCell.Tab.1.left" timestamp="1613456740485">
       <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
-    <state width="1384" height="312" key="GridCell.Tab.1.left/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613447598308" />
-    <state width="1384" height="312" key="GridCell.Tab.1.right" timestamp="1613447598309">
+    <state width="1384" height="312" key="GridCell.Tab.1.left/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613456740485" />
+    <state width="1384" height="312" key="GridCell.Tab.1.right" timestamp="1613456740486">
       <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
-    <state width="1384" height="312" key="GridCell.Tab.1.right/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613447598309" />
+    <state width="1384" height="312" key="GridCell.Tab.1.right/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613456740486" />
     <state x="352" y="-843" width="990" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1613448151633">
       <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
     <state x="352" y="-843" width="990" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613448151633" />
-    <state x="255" y="-868" width="670" height="621" key="search.everywhere.popup" timestamp="1613447272803">
-      <screen x="-295" y="-1057" width="1920" height="970" />
+    <state x="255" y="-851" width="670" height="676" key="search.everywhere.popup" timestamp="1613534652063">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="255" y="-851" width="670" height="676" key="search.everywhere.popup/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613341742499" />
+    <state x="255" y="-851" width="670" height="676" key="search.everywhere.popup/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613534652063" />
     <state x="255" y="-868" width="670" height="621" key="search.everywhere.popup/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613447272803" />
   </component>
   <component name="XDebuggerManager">
