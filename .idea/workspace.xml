@@ -25,15 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d812e741-0e74-42dd-b3fe-184b53083cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/close10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/endUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/everyNth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/in3050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/intMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/lastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/max1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/startOz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup1/stringE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/countXX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/frontTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/stringTimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.endUp">
+  <component name="RunManager" selected="Application.frontTimes">
     <configuration name="close10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Warmup1.close10" />
       <module name="CodingBatPractice" />
@@ -87,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="frontTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warmup2.frontTimes" />
+      <module name="CodingBatPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Warmup2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Warmup1.lastDigit" />
       <module name="CodingBatPractice" />
@@ -100,25 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mixStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Warmup1.mixStart" />
+    <configuration name="stringTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warmup2.stringTimes" />
       <module name="CodingBatPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Warmup1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="startOz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Warmup1.startOz" />
-      <module name="CodingBatPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Warmup1.*" />
+          <option name="PATTERN" value="Warmup2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.frontTimes" />
+        <item itemvalue="Application.stringTimes" />
         <item itemvalue="Application.endUp" />
         <item itemvalue="Application.lastDigit" />
         <item itemvalue="Application.close10" />
-        <item itemvalue="Application.startOz" />
-        <item itemvalue="Application.mixStart" />
       </list>
     </recent_temporary>
   </component>
@@ -160,49 +154,49 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1734" height="334" key="GridCell.Tab.0.bottom" timestamp="1614038261114">
-      <screen x="-295" y="-1057" width="1920" height="1057" />
+    <state width="1734" height="334" key="GridCell.Tab.0.bottom" timestamp="1614556407142">
+      <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
-    <state width="1734" height="334" key="GridCell.Tab.0.bottom/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614038261114" />
+    <state width="1734" height="322" key="GridCell.Tab.0.bottom/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014013" />
     <state width="1384" height="243" key="GridCell.Tab.0.bottom/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913379" />
-    <state width="1734" height="222" key="GridCell.Tab.0.bottom/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614036048558" />
-    <state width="1734" height="334" key="GridCell.Tab.0.center" timestamp="1614038261113">
-      <screen x="-295" y="-1057" width="1920" height="1057" />
+    <state width="1734" height="334" key="GridCell.Tab.0.bottom/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614556407142" />
+    <state width="1734" height="334" key="GridCell.Tab.0.center" timestamp="1614556407138">
+      <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
-    <state width="1734" height="334" key="GridCell.Tab.0.center/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614038261113" />
+    <state width="1734" height="322" key="GridCell.Tab.0.center/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014012" />
     <state width="1384" height="243" key="GridCell.Tab.0.center/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913378" />
-    <state width="1734" height="222" key="GridCell.Tab.0.center/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614036048556" />
-    <state width="1734" height="334" key="GridCell.Tab.0.left" timestamp="1614038261112">
-      <screen x="-295" y="-1057" width="1920" height="1057" />
+    <state width="1734" height="334" key="GridCell.Tab.0.center/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614556407138" />
+    <state width="1734" height="334" key="GridCell.Tab.0.left" timestamp="1614556407136">
+      <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
-    <state width="1734" height="334" key="GridCell.Tab.0.left/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614038261112" />
+    <state width="1734" height="322" key="GridCell.Tab.0.left/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014011" />
     <state width="1384" height="243" key="GridCell.Tab.0.left/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913377" />
-    <state width="1734" height="222" key="GridCell.Tab.0.left/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614036048555" />
-    <state width="1734" height="334" key="GridCell.Tab.0.right" timestamp="1614038261113">
-      <screen x="-295" y="-1057" width="1920" height="1057" />
+    <state width="1734" height="334" key="GridCell.Tab.0.left/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614556407136" />
+    <state width="1734" height="334" key="GridCell.Tab.0.right" timestamp="1614556407139">
+      <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
-    <state width="1734" height="334" key="GridCell.Tab.0.right/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614038261113" />
+    <state width="1734" height="322" key="GridCell.Tab.0.right/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014012" />
     <state width="1384" height="243" key="GridCell.Tab.0.right/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913378" />
-    <state width="1734" height="222" key="GridCell.Tab.0.right/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614036048557" />
-    <state width="1734" height="322" key="GridCell.Tab.1.bottom" timestamp="1614037719341">
+    <state width="1734" height="334" key="GridCell.Tab.0.right/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614556407139" />
+    <state width="1734" height="322" key="GridCell.Tab.1.bottom" timestamp="1614039014015">
       <screen x="-295" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1734" height="322" key="GridCell.Tab.1.bottom/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614037719341" />
+    <state width="1734" height="322" key="GridCell.Tab.1.bottom/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014015" />
     <state width="1734" height="322" key="GridCell.Tab.1.bottom/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614035687196" />
-    <state width="1734" height="322" key="GridCell.Tab.1.center" timestamp="1614037719341">
+    <state width="1734" height="322" key="GridCell.Tab.1.center" timestamp="1614039014014">
       <screen x="-295" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1734" height="322" key="GridCell.Tab.1.center/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614037719341" />
+    <state width="1734" height="322" key="GridCell.Tab.1.center/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014014" />
     <state width="1734" height="322" key="GridCell.Tab.1.center/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614035687195" />
-    <state width="1734" height="322" key="GridCell.Tab.1.left" timestamp="1614037719340">
+    <state width="1734" height="322" key="GridCell.Tab.1.left" timestamp="1614039014013">
       <screen x="-295" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1734" height="322" key="GridCell.Tab.1.left/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614037719340" />
+    <state width="1734" height="322" key="GridCell.Tab.1.left/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014013" />
     <state width="1734" height="322" key="GridCell.Tab.1.left/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614035687195" />
-    <state width="1734" height="322" key="GridCell.Tab.1.right" timestamp="1614037719341">
+    <state width="1734" height="322" key="GridCell.Tab.1.right" timestamp="1614039014015">
       <screen x="-295" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1734" height="322" key="GridCell.Tab.1.right/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614037719341" />
+    <state width="1734" height="322" key="GridCell.Tab.1.right/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014015" />
     <state width="1734" height="322" key="GridCell.Tab.1.right/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614035687196" />
     <state x="352" y="-843" width="990" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1613448151633">
       <screen x="-295" y="-1057" width="1920" height="970" />
