@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d812e741-0e74-42dd-b3fe-184b53083cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Warmup2/last2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/arrayCount9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,37 +152,37 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1673" height="268" key="GridCell.Tab.0.bottom" timestamp="1615948060017">
+    <state width="1673" height="268" key="GridCell.Tab.0.bottom" timestamp="1615948528787">
       <screen x="-295" y="-1055" width="1920" height="1055" />
     </state>
     <state width="1734" height="322" key="GridCell.Tab.0.bottom/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014013" />
     <state width="1384" height="243" key="GridCell.Tab.0.bottom/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913379" />
     <state width="1734" height="334" key="GridCell.Tab.0.bottom/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614559330506" />
-    <state width="1673" height="268" key="GridCell.Tab.0.bottom/0.25.1280.699/-295.-1055.1920.1055@-295.-1055.1920.1055" timestamp="1615948060017" />
+    <state width="1673" height="268" key="GridCell.Tab.0.bottom/0.25.1280.699/-295.-1055.1920.1055@-295.-1055.1920.1055" timestamp="1615948528787" />
     <state width="1673" height="268" key="GridCell.Tab.0.bottom/0.25.1280.775/-295.-1055.1920.963@-295.-1055.1920.963" timestamp="1615947129859" />
-    <state width="1673" height="268" key="GridCell.Tab.0.center" timestamp="1615948060015">
+    <state width="1673" height="268" key="GridCell.Tab.0.center" timestamp="1615948528786">
       <screen x="-295" y="-1055" width="1920" height="1055" />
     </state>
     <state width="1734" height="322" key="GridCell.Tab.0.center/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014012" />
     <state width="1384" height="243" key="GridCell.Tab.0.center/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913378" />
     <state width="1734" height="334" key="GridCell.Tab.0.center/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614559330505" />
-    <state width="1673" height="268" key="GridCell.Tab.0.center/0.25.1280.699/-295.-1055.1920.1055@-295.-1055.1920.1055" timestamp="1615948060015" />
+    <state width="1673" height="268" key="GridCell.Tab.0.center/0.25.1280.699/-295.-1055.1920.1055@-295.-1055.1920.1055" timestamp="1615948528786" />
     <state width="1673" height="268" key="GridCell.Tab.0.center/0.25.1280.775/-295.-1055.1920.963@-295.-1055.1920.963" timestamp="1615947129857" />
-    <state width="1673" height="268" key="GridCell.Tab.0.left" timestamp="1615948060014">
+    <state width="1673" height="268" key="GridCell.Tab.0.left" timestamp="1615948528786">
       <screen x="-295" y="-1055" width="1920" height="1055" />
     </state>
     <state width="1734" height="322" key="GridCell.Tab.0.left/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014011" />
     <state width="1384" height="243" key="GridCell.Tab.0.left/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913377" />
     <state width="1734" height="334" key="GridCell.Tab.0.left/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614559330504" />
-    <state width="1673" height="268" key="GridCell.Tab.0.left/0.25.1280.699/-295.-1055.1920.1055@-295.-1055.1920.1055" timestamp="1615948060014" />
+    <state width="1673" height="268" key="GridCell.Tab.0.left/0.25.1280.699/-295.-1055.1920.1055@-295.-1055.1920.1055" timestamp="1615948528786" />
     <state width="1673" height="268" key="GridCell.Tab.0.left/0.25.1280.775/-295.-1055.1920.963@-295.-1055.1920.963" timestamp="1615947129856" />
-    <state width="1673" height="268" key="GridCell.Tab.0.right" timestamp="1615948060016">
+    <state width="1673" height="268" key="GridCell.Tab.0.right" timestamp="1615948528787">
       <screen x="-295" y="-1055" width="1920" height="1055" />
     </state>
     <state width="1734" height="322" key="GridCell.Tab.0.right/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1614039014012" />
     <state width="1384" height="243" key="GridCell.Tab.0.right/0.23.1280.708/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613255913378" />
     <state width="1734" height="334" key="GridCell.Tab.0.right/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1614559330505" />
-    <state width="1673" height="268" key="GridCell.Tab.0.right/0.25.1280.699/-295.-1055.1920.1055@-295.-1055.1920.1055" timestamp="1615948060016" />
+    <state width="1673" height="268" key="GridCell.Tab.0.right/0.25.1280.699/-295.-1055.1920.1055@-295.-1055.1920.1055" timestamp="1615948528787" />
     <state width="1673" height="268" key="GridCell.Tab.0.right/0.25.1280.775/-295.-1055.1920.963@-295.-1055.1920.963" timestamp="1615947129858" />
     <state width="1673" height="316" key="GridCell.Tab.1.bottom" timestamp="1615270366739">
       <screen x="-295" y="-1055" width="1920" height="1055" />
@@ -225,6 +225,11 @@
           <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="3" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Warmup2/arrayCount9.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
