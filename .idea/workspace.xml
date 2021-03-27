@@ -25,7 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d812e741-0e74-42dd-b3fe-184b53083cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Warmup2/array667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/has271.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/noTriples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
