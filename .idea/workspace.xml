@@ -25,8 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d812e741-0e74-42dd-b3fe-184b53083cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String1/extraEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1/firstTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String1/comboString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String1/withoutEnd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
