@@ -25,7 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d812e741-0e74-42dd-b3fe-184b53083cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String1/nTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String1/twoChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,12 +216,13 @@
       <screen x="-295" y="-1057" width="1920" height="970" />
     </state>
     <state x="352" y="-843" width="990" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613448151633" />
-    <state x="255" y="-867" width="670" height="616" key="search.everywhere.popup" timestamp="1617678479305">
-      <screen x="-295" y="-1055" width="1920" height="963" />
+    <state x="1830" y="213" width="670" height="616" key="search.everywhere.popup" timestamp="1618094671112">
+      <screen x="1280" y="25" width="1920" height="963" />
     </state>
     <state x="255" y="-851" width="670" height="676" key="search.everywhere.popup/0.23.1280.703/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1613534652063" />
     <state x="255" y="-868" width="670" height="621" key="search.everywhere.popup/0.23.1280.777/-295.-1057.1920.970@-295.-1057.1920.970" timestamp="1613447272803" />
     <state x="255" y="-867" width="670" height="616" key="search.everywhere.popup/0.25.1280.775/-295.-1055.1920.963@-295.-1055.1920.963" timestamp="1617678479305" />
+    <state x="1830" y="213" width="670" height="616" key="search.everywhere.popup/0.25.1280.775/1280.25.1920.963@1280.25.1920.963" timestamp="1618094671112" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
