@@ -1,6 +1,6 @@
 package DataStructure.LinkedList.Exercise1;
 
-public class Animal {
+public class Animal implements  Item {
 
     int id;
     String name;
@@ -25,8 +25,8 @@ public class Animal {
         this.color = color;
     }
 
-    public String animalInformation() {
+    @Override
+    public String getInformation() {
         return "This " + getName() + " is " + getColor() + ".";
     }
-
 }

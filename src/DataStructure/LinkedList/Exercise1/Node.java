@@ -1,12 +1,12 @@
 package DataStructure.LinkedList.Exercise1;
 
-public class Node {
+public class Node<T extends Item> {
 
-    Animal item;
+    T item;
     Node next;
     Node previous;
 
-    public Node(Animal item) {
+    public Node(T item) {
         this.item = item;
 
     }
