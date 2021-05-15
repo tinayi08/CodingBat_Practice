@@ -18,15 +18,16 @@ public class Like_Exercise {
     //method like() pass through array
 
     public static String like (String [] likes) {
-        if (likes.length == 0) {
-            return "No one likes this";
-        } else if (likes.length == 1) {
-            return likes[0] + " likes this";
-        } else if (likes.length == 2) {
-            return likes[0] + " and " + likes[1] + " likes this";
-        } else if (likes.length == 3) {
-            return likes[0] + ", " + likes[1] + ", and " + likes[2] + " like this";
-        } else
-            return likes[0] + ", " + likes[1] + ", and " + ((likes.length)-2) + " others like this";
+
+
+        if (likes.length == 0) return "No one likes this";
+
+        if (likes.length == 1) return likes[0] + " likes this";
+
+        if (likes.length == 2) return likes[0] + " and " + likes[1] + " likes this";
+
+        if (likes.length == 3) return likes[0] + ", " + likes[1] + ", and " + likes[2] + " like this";
+
+        return likes[0] + ", " + likes[1] + ", and " + ((likes.length)-2) + " others like this";
     }
 }
