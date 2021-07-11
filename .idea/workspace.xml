@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d812e741-0e74-42dd-b3fe-184b53083cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array1/commonEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array1/sum3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Like_Exercise">
+  <component name="RunManager" selected="Application.sum3">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedList.Exercise1.Exercise1" />
       <module name="CodingBatPractice" />
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hasBad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String1.hasBad" />
+    <configuration name="sum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array1.sum3" />
       <module name="CodingBatPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String1.*" />
+          <option name="PATTERN" value="Array1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sum3" />
         <item itemvalue="Application.Like_Exercise" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.conCat" />
         <item itemvalue="Application.atFirst" />
-        <item itemvalue="Application.hasBad" />
       </list>
     </recent_temporary>
   </component>
