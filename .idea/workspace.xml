@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d812e741-0e74-42dd-b3fe-184b53083cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array1/reverse3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array1/maxEnd3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.sum3">
+  <component name="RunManager" selected="Application.maxEnd3">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedList.Exercise1.Exercise1" />
       <module name="CodingBatPractice" />
@@ -80,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="atFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String1.atFirst" />
+    <configuration name="conCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String1.conCat" />
       <module name="CodingBatPractice" />
       <extension name="coverage">
         <pattern>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String1.conCat" />
+    <configuration name="maxEnd3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array1.maxEnd3" />
       <module name="CodingBatPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String1.*" />
+          <option name="PATTERN" value="Array1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maxEnd3" />
         <item itemvalue="Application.sum3" />
         <item itemvalue="Application.Like_Exercise" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.conCat" />
-        <item itemvalue="Application.atFirst" />
       </list>
     </recent_temporary>
   </component>
