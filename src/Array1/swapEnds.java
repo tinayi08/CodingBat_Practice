@@ -18,8 +18,6 @@ public class swapEnds {
         nums[nums.length-1] = first;
 
         return nums;
-
-
     }
 
 }
